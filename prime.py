@@ -1,10 +1,4 @@
-
-# Prime number checker in Python
-
-# Ask the user to enter a number
 num = int(input("Enter a number: "))
-
-# Prime check logic
 if num < 2:
     print(f"{num} is not a prime number")
 else:
