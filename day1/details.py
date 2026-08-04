@@ -1,0 +1,8 @@
+print("----------------------")
+print("Student Information")
+print("----------------------")
+name = input("Name :")
+Age = input("Age :")
+college = input("College :")
+Branch = input("Branch :")
+City = input("City: ")
