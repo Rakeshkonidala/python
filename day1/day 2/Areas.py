@@ -1,0 +1,5 @@
+a = int(input(" a = "))
+b = int(input(" b = "))
+print("Area of Square = ", a*a)
+print("Area of rectangle = ", a*b)
+print("Area of circle = ",(2*3.14*a) )

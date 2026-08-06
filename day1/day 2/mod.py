@@ -1,0 +1,5 @@
+A = int(input("A ="))
+B = int(input("B ="))
+print("Remainder =",A%B)
+print("Square =",A*A)
+print("Cube =",A*A*A)
